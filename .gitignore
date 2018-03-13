@@ -17,6 +17,9 @@ ExportedObj/
 *.pidb
 *.booproj
 *.svd
+.vs
+*.ncrunchproject
+*.ncrunchsolution
 
 
 # Unity3D generated meta files
@@ -29,3 +32,8 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.bak
+*.bak.meta
+
+# Swapfiles
+*.swp
+
